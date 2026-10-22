@@ -131,8 +131,6 @@ sudo python3 netrecon.py 192.168.1.0/24 --yes
 
 The `--yes` flag skips the authorization confirmation prompt. It does not grant permission to scan a network.
 
-> **Note:** If your Python file has a different name, replace `netrecon.py` in these commands with the actual filename.
-
 ## How it works
 
 1. Validates the supplied network in CIDR notation.
